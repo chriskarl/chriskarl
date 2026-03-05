@@ -1,36 +1,41 @@
 # Chris Mayfield
 
-**VP of Product & Design | AI Platforms | B2B SaaS | Series A to IPO**
+**VP of Product & Design | AI Platforms | Series A to IPO**
 
-Product executive with 15+ years building and scaling AI-powered B2B platforms. I operate at the intersection of product, data science, and go-to-market -- turning complex AI capabilities into products that deliver measurable business outcomes.
+I get brought in at inflection points -- when a product has traction but hasn't yet crossed the chasm. I build the operating systems, teams, and AI-native product strategies that take companies from early momentum to market leadership.
 
-## What I Build
+15+ years scaling B2B SaaS platforms. Three times I've navigated the transition from product-market fit to scale (Pluralsight, DataCamp, Workera). I build with AI, not just about it.
 
-- **AI-driven skill intelligence platforms** -- adaptive assessments, personalized learning, verified skills at enterprise scale
-- **Personalization and recommendation systems** -- ML-powered engines serving millions of users
-- **0-to-1 products in regulated industries** -- from concept through product-market fit to scale
+## What I Do
+
+**Lead AI transformation at inflection points.** I join companies when the product is working but the growth engine isn't yet built -- then I install the strategy, operating rhythms, and cross-functional alignment to break through.
+
+**Build AI-native products.** Adaptive assessments, personalization engines, multi-agent systems. I architect products where AI is the core value, not a feature checkbox.
+
+**Ship outcomes, not features.** 2x ARR growth, 80% enterprise adoption, 70% QoQ assessment growth, platforms powering 70% of product usage at a public company. I measure what matters.
+
+## What I'm Building Now
+
+**[Cortex](https://github.com/chriskarl/cortex)** -- An 11-agent orchestration system for product leaders. Multi-agent architecture using Claude Code with parallel workflows, shared state communication, and MCP tool integration. Not a toy demo -- a working system I use daily to run strategy, stakeholder comms, competitive intel, and team operations.
+
+This is what I mean by building with AI: designing agent architectures, not just writing prompts.
 
 ## Track Record
 
-| Company | Role | What Happened |
-|---------|------|---------------|
-| **Workera** | Head of Product | Scaled ARR 2x+, 80% enterprise participation, built Sage AI mentor agent. Inc. 5000 (#397), Fast Company Most Innovative |
-| **DataCamp** | Head of Product | 70% QoQ growth in assessments, 35% lift in mobile engagement |
-| **Pluralsight** | VP of Product | Built Iris AI engine powering 70% of platform usage. Series C through IPO |
-| **O.C. Tanner** | Co-Founder, Welbe | 0-to-1 wellness platform, 78% first-week engagement, 17-person team |
+| Company | Stage | Role | Impact |
+|---------|-------|------|--------|
+| **Workera** | Series A/B | Head of Product | Scaled ARR 2x+, 80% enterprise participation, built AI mentor agent. Inc. 5000 #397 |
+| **DataCamp** | Growth | Head of Product | 70% QoQ assessment growth, 35% mobile engagement lift |
+| **Pluralsight** | Series C to IPO | VP of Product | Built Iris AI engine powering 70% of platform. Core to IPO narrative |
+| **O.C. Tanner** | Intrapreneurship | Co-Founder, Welbe | 0-to-1 wellness platform, 78% week-one engagement |
 
-## Areas of Focus
+## Speaking
 
-`AI/ML Product Development` `Adaptive Learning Systems` `Skills Assessment & Verification` `Enterprise SaaS` `Growth Experimentation` `Product-Led Growth` `Cross-Functional Leadership`
-
-## Speaking & Writing
-
-- **Front Conference** -- "How to Survive as a Designer or PM in the Era of the Algorithm"
-- **AI Fund Panel** -- "Achieving Product-Market Fit for AI Products"
-- **Entrepreneur Magazine** -- "6 Steps to Leading Effectively in an AI Environment"
-- **ATD Demo Day** -- "Verified Skills for an AI-Ready Workforce"
+- **AI Fund Panel** -- Achieving Product-Market Fit for AI Products
+- **Front Conference** -- Surviving as a PM in the Era of the Algorithm
+- **Entrepreneur Magazine** -- 6 Steps to Leading Effectively in an AI Environment
+- **ATD Demo Day** -- Verified Skills for an AI-Ready Workforce
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/chrismayfield)
-- Salt Lake City, UT
+[LinkedIn](https://linkedin.com/in/chrismayfield) -- Salt Lake City, UT
